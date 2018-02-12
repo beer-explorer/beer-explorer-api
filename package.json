@@ -1,0 +1,16 @@
+{
+  "name": "beer-explorer-api",
+  "version": "1.0.0",
+  "description": "beer explorer api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beer",
+    "brewery",
+    "api"
+  ],
+  "author": "rdrgzma",
+  "license": "ISC"
+}
